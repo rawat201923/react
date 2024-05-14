@@ -1,4 +1,4 @@
-# React(single page appilation)
+# React(single page application)
 
 ### Why to learn REact?
 - type,job, trend, build ui
@@ -39,3 +39,5 @@
 - React is not a complete solution in must case (no seo, brower render of js, no routing)
 
 - framework(next js, gatsby, remix)
+
+
