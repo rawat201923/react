@@ -46,4 +46,5 @@
 # create a project
 - npx create-react-app peoject_name
 
+- name of component be capitalize
 
