@@ -40,4 +40,10 @@
 
 - framework(next js, gatsby, remix)
 
+## if we want work on web we use react-don
+## if we want work on mobike apps we use react-native
+
+# create a project
+- npx create-react-app peoject_name
+
 
