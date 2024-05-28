@@ -43,8 +43,14 @@
 ## if we want work on web we use react-don
 ## if we want work on mobike apps we use react-native
 
-# create a project
+### create a project
 - npx create-react-app peoject_name
 
 - name of component be capitalize
 
+
+
+# Virtual Dom , Fibre and reconciliation
+
+- create root() method - it create dom
+- 
