@@ -5,7 +5,22 @@ function App() {
  let [counter, setCounter] = useState(0)
  
   // let counter = 15
+/*
+## interview question on counter
 
+  const addValue = () => {
+   
+    counter = counter + 1;
+    setCounter((prevCounter)=> prevcounter+1);
+    setCounter((prevCounter)=> prevcounter+1);
+    setCounter((prevCounter)=> prevcounter+1);
+    setCounter((prevCounter)=> prevcounter+1);
+            
+   
+  }
+
+
+*/
 
 
 
