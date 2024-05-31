@@ -20,7 +20,7 @@ function Card({username,btnText="read more"}) {
       {username}
     </div>
     <div class="text-slate-700 dark:text-slate-500">
-     {btnText }
+     {btnText}
     </div>
   </figcaption>
 </div>
